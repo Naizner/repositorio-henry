@@ -10,4 +10,7 @@ class Alumno {
     set nombre(nombre){
         this._nombre=nombre;
     }
+
 }
+let alumno(Nicolas, Aizner)
+console.log(alumno);
